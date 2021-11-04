@@ -4,7 +4,7 @@ Donate link: https://n3rds.work/spendenaktionen/unterstuetze-unsere-psource-free
 Tags: theme, template, template builder, builder, theme builder, upfront, flexible, flexible-header
 Requires at least: WordPress 4.7
 Tested up to: WordPress 5.7.0
-Version: 1.0.5
+Version: 1.0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -56,25 +56,12 @@ Mach eine [Spende per Überweisung oder PayPal](https://n3rds.work/spendenaktion
 
 [POWERED BY PSOURCE](https://n3rds.work/psource_kategorien/psource-plugins/)
 
-== Copyright ==
-
-Copyright 2019-2021 WMS N@W
-
-This program is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 2 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program; if not, write to the Free Software
-Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 
 == Changelog ==
+
+= 1.0.6 =
+
+* Updater
 
 = 1.0.5 = 
 * Beta Version
